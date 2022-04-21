@@ -5,6 +5,8 @@ Cloud solutions architect with 7 plus years of experience in the tech space with
 Skills: AWS/ PYTHON 
 
 - 🔭 I’m currently working on this page. 
+- https://github.com/snipe/animated-gifs/blob/master/Approved/FistBumpHero6.gif?raw=true![image](https://user-images.githubusercontent.com/102491040/164566666-39b33e5b-a876-4453-9988-b47541aec93d.png)
+
 
 
 
