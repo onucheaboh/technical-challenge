@@ -5,6 +5,7 @@ Cloud solutions architect with 7 plus years of experience in the tech space with
 Skills: AWS/ PYTHON 
 
 - 🔭 I’m currently working on this page. 
+
 https://giphy.com/gifs/wdr-anne-hierundheute-willmes-X7s4uckfyihGJDrSpo
 
 
