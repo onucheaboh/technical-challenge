@@ -6,7 +6,7 @@ Skills: AWS/ PYTHON
 
 - 🔭 I’m currently working on this page. 
 
-https://media3.giphy.com/media/duzpaTbCUy9Vu/giphy.webp?cid=ecf05e47fh5rjxglk5318u0ubw67j9b3gjczdupnnkecndpu&rid=giphy.webp&ct=g
+
 
 
 
